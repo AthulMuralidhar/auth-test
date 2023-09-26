@@ -5,6 +5,7 @@ go 1.21.1
 require (
 	github.com/casbin/casbin v1.9.1
 	github.com/labstack/echo v3.3.10+incompatible
+	github.com/mikespook/gorbac v2.3.0+incompatible
 )
 
 require (
